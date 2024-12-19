@@ -8,6 +8,10 @@ int main()
     std::cout << "Hello from pvz c++! respect 2 the programming class\n";
 
     std::cout << "cheetos";
+
+    std::cout << "Hun ter is the best";
+
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
